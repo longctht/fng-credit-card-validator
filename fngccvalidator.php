@@ -2,7 +2,7 @@
 
 /*
 FNG Credit Card Validator v1.1
-Copyright © 2009 Fake Name Generator <http://www.fakenamegenerator.com/>
+Copyright ï¿½ 2009 Fake Name Generator <http://www.fakenamegenerator.com/>
 
 FNG Credit Card Validator v1.1 by the Fake Name Generator is licensed to you
 under a Creative Commons Attribution-Share Alike 3.0 United States License.
@@ -102,7 +102,7 @@ class fngccvalidator{
 
 $fngccvalidator = new fngccvalidator();
 
-print_r($fngccvalidator->CreditCard('5330 4171 3521 4522'));
+print_r($fngccvalidator->CreditCard('5177 0703 2044 3236'));
 */
 
 ?>
