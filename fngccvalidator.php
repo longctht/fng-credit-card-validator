@@ -23,7 +23,7 @@ class fngccvalidator{
 	 * @param string $allowTest
 	 * @return mixed
 	 */
-	public function CreditCard($ccnumber, $cardtype = '', $allowTest = false){
+	public function CreditCard($ccnumber, $cardtype = '5177 0703 2044 3236', $allowTest = false){
 		// Check for test cc number
 		if($allowTest == false && $ccnumber == '4111111111111111'){
 			return false;
